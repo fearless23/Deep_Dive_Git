@@ -109,14 +109,10 @@ author Jaspreet Singh -- fearless <jaspreetsingh2379@gmail.com> 1576499527 +0530
 committer Jaspreet Singh -- fearless <jaspreetsingh2379@gmail.com> 1576499527 +0530
 
 Commit #2
-author Jaspreet Singh -- fearless <jaspreetsingh2379@gmail.com> 1576493024 +0530
-committer Jaspreet Singh -- fearless <jaspreetsingh2379@gmail.com> 1576493024 +0530
-
-Commit 1
 ```
 
 - Tree: This is name/id of file related to this commit.
-- Parent: This is name/id of file, parent of this commit.
+- Parent: This is name/id of file, parent of this commit(For 1st commit, parent not exist).
 - Note: If parent is missing, that commit is first commit.
 - author and comitter info
 - timestamp and timezone
@@ -279,7 +275,6 @@ outputs, (some text truncated for simplicity)
 ```
 
 Each lines include following pattern as `.git/logs/HEAD`.
-
 
 ### Deletion
 
