@@ -10,6 +10,7 @@ Inspired from youtube video, `Rules to git by`.
 
 **Video Link**: [Youtube Video](https://www.youtube.com/watch?v=yI0BtEzdGtw)
 
+![](imgs/commits.png)
 ---
 
 ## TABLE OF CONTENTS
